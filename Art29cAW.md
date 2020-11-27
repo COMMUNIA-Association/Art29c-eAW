@@ -16,8 +16,6 @@
 
 	2°. de beschikbaarheid van passende en doeltreffende middelen en de kosten daarvan voor de aanbieders van de onlinedienst voor het delen van content.
 
-3. De platformaanbieder verstrekt de makers, of hun rechtverkrijgenden, op hun verzoek adequate informatie over de maatregelen die zijn getroffen om aan het in de onderdelen 2°. en 3°. van het tweede lid bepaalde te voldoen.
-
 4. De aanbieder van een onlinedienst voor het delen van content verstrekt de makers, of hun rechtverkrijgenden, op hun verzoek adequate informatie over de maatregelen die zijn getroffen en de wijze waarop die worden uitgevoerd om aan het in de onderdelen 2°. en 3°. van het tweede lid bepaalde te voldoen.
 
 5. De aanbieder van een onlinedienst voor het delen van content stelt de gebruikers van zijn dienst in de algemene voorwaarden op de hoogte van de beperkingen op het auteursrecht.
