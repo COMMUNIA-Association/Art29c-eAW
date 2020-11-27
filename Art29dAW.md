@@ -18,4 +18,4 @@ aangeboden.
 
     1°. het type, het publiek en de omvang van de diensten en het soort werken die door de gebruikers van de onlinedienst voor het delen van inhoud zijn aangeboden; en
 
-    2°. de beschikbaarheid van passende en doeltreffende middelen en de kosten daarvan voor de aanbieder van een onlinedienst voor het delen van inhoud.
+    2°. de beschikbaarheid van passende en doeltreffende middelen om aan het in het tweede lid, onderdeel 2°., bepaalde gevolg te geven en de kosten daarvan voor de aanbieder van de onlinedienst voor het delen van inhoud.
