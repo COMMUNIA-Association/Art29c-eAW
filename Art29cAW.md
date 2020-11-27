@@ -2,7 +2,7 @@
 
 1. Een platformaanbieder wordt geacht de door de gebruikers van zijn dienst aangeboden werken van letterkunde, wetenschap of kunst openbaar te maken, wanneer hij het publiek daartoe toegang verleent. Indien de platformaanbieder daarvoor toestemming heeft verkregen, geldt die toestemming ook voor de openbaarmaking door gebruikers , tenzij zij op commerciële basis handelen of hun activiteit significante inkomsten genereert. De platformaanbieder verstrekt de makers, of hun rechtverkrijgenden, op hun verzoek adequate informatie over het gebruik van werken waarvoor toestemming is verleend.
 
-2. Deplatformaanbiederdiegeentoestemmingheeftverkregen,isaansprakelijkvoordeinbreuk op het openbaarmakingsrecht, tenzij hij aantoont dat:
+2. De platformaanbieder die geen toestemming heeft verkregen, is aan sprakelijk voor de inbreuk op het openbaarmakingsrecht, tenzij hij aantoont dat:
 
     1°. hij alles in het werk heeft gesteld heeft gedaan om toestemming te verkrijgen;
     
@@ -19,4 +19,4 @@ normen van professionele toewijding, ervoor te zorgen dat bepaalde werken ten aa
 
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de toepassing van dit artikel.
 
-7. Voordetoepassingvanditartikelwordtondereenplatformaanbiederverstaaneenaanbieder van een dienst van de informatiemaatschappij die als belangrijkste of een van de belangrijkste doelstellingen heeft een grote hoeveelheid door de gebruikers van de dienst aangeboden werken van letterkunde, wetenschap of kunst op te slaan en toegankelijk te maken voor het publiek, waarbij hij deze werken ordent en promoot met een winstoogmerk.
+7. Voor de toepassing van dit artikel wordt onder een platformaanbieder verstaan een aanbieder van een dienst van de informatiemaatschappij die als belangrijkste of een van de belangrijkste doelstellingen heeft een grote hoeveelheid door de gebruikers van de dienst aangeboden werken van letterkunde, wetenschap of kunst op te slaan en toegankelijk te maken voor het publiek, waarbij hij deze werken ordent en promoot met een winstoogmerk.
